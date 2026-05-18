@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Users/ADMIN/Desktop/React/Task_Reminder/build/static/css/main.8576c72d.css",
+    "main.js": "/Users/ADMIN/Desktop/React/Task_Reminder/build/static/js/main.5d62918a.js",
+    "index.html": "/Users/ADMIN/Desktop/React/Task_Reminder/build/index.html",
+    "static/media/check.svg": "/Users/ADMIN/Desktop/React/Task_Reminder/build/static/media/check.6c56ff23238b726dd642bd4b794f1f69.svg",
+    "static/media/close.svg": "/Users/ADMIN/Desktop/React/Task_Reminder/build/static/media/close.b7ba6b1886f088ec523c6de41c52b3fa.svg",
+    "main.8576c72d.css.map": "/Users/ADMIN/Desktop/React/Task_Reminder/build/static/css/main.8576c72d.css.map",
+    "main.5d62918a.js.map": "/Users/ADMIN/Desktop/React/Task_Reminder/build/static/js/main.5d62918a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8576c72d.css",
+    "static/js/main.5d62918a.js"
+  ]
+}
