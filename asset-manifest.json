@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Task_Reminder/static/css/main.56d32807.css",
-    "main.js": "/Task_Reminder/static/js/main.288a5feb.js",
-    "index.html": "/Task_Reminder/index.html",
-    "static/media/check.svg": "/Task_Reminder/static/media/check.6c56ff23238b726dd642bd4b794f1f69.svg",
-    "static/media/close.svg": "/Task_Reminder/static/media/close.b7ba6b1886f088ec523c6de41c52b3fa.svg",
-    "main.56d32807.css.map": "/Task_Reminder/static/css/main.56d32807.css.map",
-    "main.288a5feb.js.map": "/Task_Reminder/static/js/main.288a5feb.js.map"
+    "main.css": "/Composition/static/css/main.6cabb01a.css",
+    "main.js": "/Composition/static/js/main.7d365365.js",
+    "index.html": "/Composition/index.html",
+    "static/media/edit.svg": "/Composition/static/media/edit.27d63478b28f1166a887e5e6c9975fce.svg",
+    "static/media/check.svg": "/Composition/static/media/check.6c56ff23238b726dd642bd4b794f1f69.svg",
+    "static/media/close.svg": "/Composition/static/media/close.b7ba6b1886f088ec523c6de41c52b3fa.svg",
+    "main.6cabb01a.css.map": "/Composition/static/css/main.6cabb01a.css.map",
+    "main.7d365365.js.map": "/Composition/static/js/main.7d365365.js.map"
   },
   "entrypoints": [
-    "static/css/main.56d32807.css",
-    "static/js/main.288a5feb.js"
+    "static/css/main.6cabb01a.css",
+    "static/js/main.7d365365.js"
   ]
 }
